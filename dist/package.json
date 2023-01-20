@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Tamilarasu","email":"tamilarasus0612@gmail.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCard1527FC2C977441B1A9A0DC5385DCC80A.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"circleCard","displayName":"CircleCard","guid":"circleCard1527FC2C977441B1A9A0DC5385DCC80A","visualClassName":"Visual","version":"1.0.0","description":"Simple score crad","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
